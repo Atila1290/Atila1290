@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil 
+## Bem vindo ao meu perfil 😁😁
 <div>
    <a href="https://github.com/devemdobro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atila1290&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,10 +13,10 @@
  
 <br>
 
-## Um pouco sobre mim
-<p>Atualmente trabalho como vigia noturno em uma obra e estou cursando Analise e desenvolvimento de sistemas na UCB e durante o curso me interessei pela a programação por causa das suas oportunidades e a possibilidade de moldar o mundo. Desde de muito novo sou fascinado por tecnologia e tudo do mundo "nerd" e estou buscando a transição de carreira da área da segurança para a TI</p>
+## Um pouco sobre mim 😎🥰
+<p> Atualmente trabalho como vigia noturno em uma obra e estou cursando Analise e desenvolvimento de sistemas na UCB e durante o curso me interessei pela a programação por causa das suas oportunidades e a possibilidade de moldar o mundo. Desde de muito novo sou fascinado por tecnologia e tudo do mundo "nerd" e estou buscando a transição de carreira da área da segurança para a TI</p>
  
-### Me siga a gente nas redes abaixo!
+### Me siga a gente nas redes abaixo! 🤩🤩
  
 <div> 
   <a href = "mailto:atilasilva3011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
